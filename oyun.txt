@@ -5,3 +5,5 @@ steam://install/557260
 steam://install/770990
 steam://install/488440
 steam://install/92
+steam://install/1731870
+steam://install/2473400
