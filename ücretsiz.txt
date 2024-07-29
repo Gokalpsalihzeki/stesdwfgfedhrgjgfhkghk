@@ -6,3 +6,4 @@ steam://install/1731870
 steam://install/1915660
 steam://install/502130
 steam://install/1227750
+steam://install/877280
