@@ -1,9 +1,3 @@
-
-steam://install/1919150
-steam://install/984570
-steam://install/2360710
-steam://install/1571090
-steam://install/1287150
 steam://install/2210800
 steam://install/1278090
 steam://install/557260
