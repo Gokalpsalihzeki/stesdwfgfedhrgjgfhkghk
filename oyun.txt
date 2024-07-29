@@ -1,7 +1,4 @@
-steam://install/92
-steam://install/561440
-steam://install/687890
-steam://install/874760
+
 steam://install/1919150
 steam://install/984570
 steam://install/2360710
