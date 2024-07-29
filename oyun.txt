@@ -5,8 +5,6 @@ steam://install/557260
 steam://install/770990
 steam://install/488440
 steam://install/92
-steam://install/1731870
-steam://install/2473400
 steam://install/561440
 steam://install/687890
 steam://install/874760
@@ -15,7 +13,9 @@ steam://install/984570
 steam://install/2360710
 steam://install/1571090
 steam://install/1287150
-steam://install/1915660
 steam://install/2210800
 steam://install/1278090
 steam://install/557260
+steam://install/2473400
+steam://install/1731870
+steam://install/1915660
