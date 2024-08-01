@@ -8,3 +8,4 @@ steam://install/502130
 steam://install/1227750
 steam://install/877280
 steam://install/1253880
+steam://install/730
